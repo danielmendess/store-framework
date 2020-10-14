@@ -63,7 +63,7 @@
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
-      "rich-text#deletar"
+      "flex-layout.col"
     ]
   },
   
